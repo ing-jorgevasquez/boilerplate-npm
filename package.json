@@ -1,5 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Jorge Isaac Vasquez Sanchez",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
